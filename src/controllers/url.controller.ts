@@ -3,6 +3,7 @@ import { URLService } from "../services/url.service";
 import Responser from "../utils/responser";
 import LOGGER from "../config/logger/winston";
 import { url } from "inspector";
+import { IResponse } from "../utils/types/response.format";
 
 export class URLController {
   private urlService: URLService;

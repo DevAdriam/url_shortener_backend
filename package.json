@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha -r ts-node/register 'src/tests/**/*.test.ts'",
     "start": "tsc && node dist/app.js"
   },
   "keywords": [],
@@ -22,8 +22,12 @@
   "devDependencies": {
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
+    "@types/mocha": "^10.0.10",
     "@types/node": "^22.13.4",
+    "@types/supertest": "^6.0.2",
     "@types/winston": "^2.4.4",
+    "mocha": "^11.1.0",
+    "supertest": "^7.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
   }

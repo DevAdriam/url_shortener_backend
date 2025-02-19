@@ -32,7 +32,7 @@ class URLController {
                 }
                 const createdURL = yield this.urlService.saveURL(url);
                 return res.status(201).json((0, responser_1.default)({
-                    data: Object.assign(Object.assign({}, createdURL), { shortenURL: `${process.env.BASE_URL}/${createdURL.shortenURL}` }),
+                    data: Object.assign(Object.assign({}, createdURL), { shortenURL: `https://${req.hostname}/${createdURL.shortenURL}` }),
                     message: "Successfully created shorten URL",
                     status: 201,
                 }));

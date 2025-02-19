@@ -1,4 +1,4 @@
-interface IResponse<T> {
+export interface IResponse<T> {
   _succes: boolean;
   _metadata: {
     version: string;

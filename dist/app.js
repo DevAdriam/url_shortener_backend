@@ -26,3 +26,4 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     winston_1.default.info(`Server is running on port ${PORT}`);
 });
+exports.default = app;

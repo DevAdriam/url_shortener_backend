@@ -163,3 +163,55 @@
 2025-02-19T08:44:26.471Z [info]: Server is running on port 3001
 2025-02-19T08:44:27.766Z [info]: Successfully conntected to prisma 🚀
 2025-02-19T08:53:51.447Z [info]: POST /api/v1/urls
+2025-02-19T09:22:40.043Z [info]: Server is running on port 3001
+2025-02-19T09:22:40.714Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:23:36.065Z [info]: Server is running on port 3001
+2025-02-19T09:23:36.426Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:24:21.809Z [info]: GET /
+2025-02-19T09:24:22.165Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:24:39.234Z [info]: Server is running on port 3001
+2025-02-19T09:24:39.253Z [info]: GET /
+2025-02-19T09:24:39.625Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:25:08.652Z [info]: Server is running on port 3001
+2025-02-19T09:25:08.665Z [info]: GET /
+2025-02-19T09:25:09.173Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:38:53.599Z [info]: Server is running on port 3001
+2025-02-19T09:38:53.633Z [info]: GET /
+2025-02-19T09:38:53.653Z [info]: GET /invalidURL
+2025-02-19T09:38:54.141Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:50:12.667Z [info]: Server is running on port 3001
+2025-02-19T09:50:12.688Z [info]: GET /
+2025-02-19T09:50:12.697Z [info]: GET /invalidURL
+2025-02-19T09:50:14.732Z [info]: POST /api/v1/urls
+2025-02-19T09:50:16.720Z [info]: POST /api/v1/urls
+2025-02-19T09:50:17.697Z [error]: Failed to connect prisma 😞
+2025-02-19T09:50:17.697Z [error]: 
+Invalid `prisma.url.findFirst()` invocation in
+/Users/naingaungzaw/Documents/url-shortener/src/repositories/url.repository.ts:16:23
+
+  13 }
+  14 
+  15 async findURLByShortenURL(shortenURL: string): Promise<url | null> {
+→ 16   return prisma.url.findFirst(
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com:6543`.
+2025-02-19T09:50:17.698Z [error]: 
+Invalid `prisma.url.findFirst()` invocation in
+/Users/naingaungzaw/Documents/url-shortener/src/repositories/url.repository.ts:20:23
+
+  17 }
+  18 
+  19 async findURLByOriginalURL(originalURL: string): Promise<url | null> {
+→ 20   return prisma.url.findFirst(
+Can't reach database server at `aws-0-ap-southeast-1.pooler.supabase.com:6543`
+
+Please make sure your database server is running at `aws-0-ap-southeast-1.pooler.supabase.com:6543`.
+2025-02-19T09:50:34.302Z [info]: Server is running on port 3001
+2025-02-19T09:50:35.163Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:50:59.705Z [info]: Server is running on port 3001
+2025-02-19T09:50:59.721Z [info]: GET /
+2025-02-19T09:50:59.730Z [info]: GET /invalidURL
+2025-02-19T09:51:00.776Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T09:51:01.022Z [info]: POST /api/v1/urls
+2025-02-19T09:51:01.603Z [info]: POST /api/v1/urls

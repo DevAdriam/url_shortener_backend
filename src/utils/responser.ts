@@ -1,3 +1,5 @@
+import { IResponse } from "./types/response.format";
+
 export default function Responser<T>({
   status,
   message,
