@@ -1,0 +1,162 @@
+2025-02-18T08:58:22.046Z [info]: Server is running on port 3000
+2025-02-18T09:01:29.112Z [info]: Server is running on port 3000
+2025-02-18T09:19:40.347Z [info]: Server is running on port 3001
+2025-02-18T09:19:40.724Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:22:46.070Z [info]: Server is running on port 3001
+2025-02-19T03:22:46.108Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:23:18.710Z [info]: GET /
+2025-02-19T03:29:57.949Z [info]: Server is running on port 3001
+2025-02-19T03:29:57.992Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:30:20.046Z [info]: GET /
+2025-02-19T03:30:23.802Z [info]: GET /api/v1
+2025-02-19T03:32:04.144Z [info]: POST /api/v1/url/urls
+2025-02-19T03:32:09.716Z [info]: POST /api/v1/urls
+2025-02-19T03:32:42.261Z [info]: Server is running on port 3001
+2025-02-19T03:32:42.335Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:32:46.071Z [info]: POST /api/v1/urls
+2025-02-19T03:33:13.188Z [info]: Server is running on port 3001
+2025-02-19T03:33:13.226Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:33:17.684Z [info]: POST /api/v1/urls
+2025-02-19T03:36:59.792Z [info]: Server is running on port 3001
+2025-02-19T03:36:59.833Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:37:14.339Z [info]: POST /api/v1/urls
+2025-02-19T03:38:07.640Z [info]: Server is running on port 3001
+2025-02-19T03:38:07.696Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:38:11.221Z [info]: POST /api/v1/urls
+2025-02-19T03:39:17.158Z [info]: Server is running on port 3001
+2025-02-19T03:39:17.202Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:39:19.258Z [info]: POST /api/v1/urls
+2025-02-19T03:39:27.712Z [info]: Server is running on port 3001
+2025-02-19T03:39:27.768Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:39:29.680Z [info]: POST /api/v1/urls
+2025-02-19T03:42:01.997Z [info]: Server is running on port 3001
+2025-02-19T03:42:02.038Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:42:06.087Z [info]: POST /api/v1/urls
+2025-02-19T03:42:17.455Z [info]: Server is running on port 3001
+2025-02-19T03:42:17.497Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:42:19.286Z [info]: POST /api/v1/urls
+2025-02-19T03:43:41.766Z [info]: Server is running on port 3001
+2025-02-19T03:43:41.785Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:43:44.043Z [info]: POST /api/v1/urls
+2025-02-19T03:45:14.617Z [info]: Server is running on port 3001
+2025-02-19T03:45:14.662Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:45:16.867Z [info]: POST /api/v1/urls
+2025-02-19T03:55:50.353Z [info]: Server is running on port 3001
+2025-02-19T03:55:50.393Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:55:54.128Z [info]: POST /api/v1/urls
+2025-02-19T03:56:16.566Z [info]: Server is running on port 3001
+2025-02-19T03:56:16.584Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T03:56:19.962Z [info]: POST /api/v1/urls
+2025-02-19T03:56:35.119Z [info]: POST /api/v1/urls
+2025-02-19T04:07:00.035Z [info]: Server is running on port 3001
+2025-02-19T04:07:00.077Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T04:07:01.942Z [info]: POST /api/v1/urls
+2025-02-19T04:07:44.949Z [info]: Server is running on port 3001
+2025-02-19T04:07:44.965Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T04:07:51.085Z [info]: Server is running on port 3001
+2025-02-19T04:07:51.103Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T04:07:51.879Z [info]: POST /api/v1/urls
+2025-02-19T04:07:57.182Z [info]: POST /api/v2/urls
+2025-02-19T04:08:03.297Z [info]: POST /api/v1/urls
+2025-02-19T04:08:07.916Z [info]: Server is running on port 3001
+2025-02-19T04:08:07.931Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T04:08:09.197Z [info]: POST /api/v1/urls
+2025-02-19T04:52:53.994Z [info]: Server is running on port 3001
+2025-02-19T04:52:54.051Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T04:52:56.328Z [info]: OPTIONS /url
+2025-02-19T04:52:57.336Z [info]: OPTIONS /url
+2025-02-19T04:53:23.322Z [info]: OPTIONS /api/v1/urls
+2025-02-19T04:55:21.255Z [info]: Server is running on port 3001
+2025-02-19T04:55:21.298Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T04:55:24.112Z [info]: POST /api/v1/urls
+2025-02-19T06:04:48.046Z [info]: POST /api/v1/urls
+2025-02-19T06:04:48.950Z [info]: POST /api/v1/urls
+2025-02-19T06:07:01.213Z [info]: POST /api/v1/urls
+2025-02-19T06:07:46.417Z [info]: POST /api/v1/urls
+2025-02-19T06:08:19.259Z [info]: POST /api/v1/urls
+2025-02-19T06:09:57.189Z [info]: POST /api/v1/urls
+2025-02-19T06:11:15.169Z [info]: POST /api/v1/urls
+2025-02-19T06:12:24.842Z [info]: POST /api/v1/urls
+2025-02-19T06:13:40.490Z [info]: POST /api/v1/urls
+2025-02-19T06:16:22.713Z [info]: POST /api/v1/urls
+2025-02-19T06:16:53.913Z [info]: POST /api/v1/urls
+2025-02-19T06:18:32.070Z [info]: POST /api/v1/urls
+2025-02-19T06:32:05.174Z [info]: Server is running on port 3001
+2025-02-19T06:32:05.215Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:32:52.241Z [info]: POST /api/v1/urls
+2025-02-19T06:35:11.308Z [info]: Server is running on port 3001
+2025-02-19T06:35:11.357Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:35:18.843Z [info]: POST /api/v1/urls
+2025-02-19T06:35:55.946Z [info]: Server is running on port 3001
+2025-02-19T06:35:55.971Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:36:05.071Z [info]: POST /api/v1/urls
+2025-02-19T06:36:19.871Z [info]: Server is running on port 3001
+2025-02-19T06:36:19.921Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:36:25.735Z [info]: POST /api/v1/urls
+2025-02-19T06:36:38.551Z [info]: POST /api/v1/urls
+2025-02-19T06:36:46.461Z [info]: GET /api/v1/51MJPJsW
+2025-02-19T06:36:47.894Z [info]: GET /api/v1/51MJPJsW
+2025-02-19T06:36:48.509Z [info]: GET /api/v1/51MJPJsW
+2025-02-19T06:36:49.834Z [info]: GET /api/v1/51MJPJsW
+2025-02-19T06:36:57.459Z [info]: GET /api/v1/urls/51MJPJsW
+2025-02-19T06:37:23.906Z [info]: Server is running on port 3001
+2025-02-19T06:37:23.945Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:37:34.599Z [info]: GET /api/v1/51MJPJsW
+2025-02-19T06:37:42.976Z [info]: GET /api/v1/urls/51MJPJsW
+2025-02-19T06:38:29.357Z [info]: Server is running on port 3001
+2025-02-19T06:38:29.406Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:38:34.822Z [info]: POST /api/v1/urls
+2025-02-19T06:38:39.152Z [info]: GET /api/v1/51MJPJsW
+2025-02-19T06:38:43.500Z [info]: GET /api/v1/urls/51MJPJsW
+2025-02-19T06:39:23.969Z [info]: Server is running on port 3001
+2025-02-19T06:39:24.000Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:39:29.516Z [info]: POST /api/v1/urls
+2025-02-19T06:39:41.233Z [info]: POST /api/v1/urls
+2025-02-19T06:39:48.766Z [info]: GET /api/v1/urls/icVYTgOC
+2025-02-19T06:40:38.728Z [info]: Server is running on port 3001
+2025-02-19T06:40:38.743Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:40:46.263Z [info]: POST /api/v1/urls
+2025-02-19T06:40:53.041Z [info]: GET /api/v1/51MJPJsW
+2025-02-19T06:41:28.868Z [info]: Server is running on port 3001
+2025-02-19T06:41:28.883Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:41:37.188Z [info]: POST /api/v1/urls
+2025-02-19T06:41:43.682Z [info]: GET /api/v1/urls/2ZVeeEtw
+2025-02-19T06:50:48.080Z [info]: Server is running on port 3001
+2025-02-19T06:50:48.116Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:50:56.056Z [info]: Server is running on port 3001
+2025-02-19T06:50:56.225Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:51:14.242Z [info]: POST /api/v1/urls
+2025-02-19T06:51:38.641Z [info]: Server is running on port 3001
+2025-02-19T06:51:38.670Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:51:45.181Z [info]: POST /api/v1/urls
+2025-02-19T06:51:55.889Z [info]: POST /api/v1/urls
+2025-02-19T06:52:01.872Z [info]: GET /51MJPJsW
+2025-02-19T06:53:14.752Z [info]: Server is running on port 3001
+2025-02-19T06:53:14.787Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:53:23.839Z [info]: POST /api/v1/urls
+2025-02-19T06:57:50.873Z [info]: POST /api/v1/urls
+2025-02-19T06:58:02.592Z [info]: GET /51MJPJsW
+2025-02-19T06:58:46.638Z [info]: Server is running on port 3001
+2025-02-19T06:58:46.661Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:58:52.683Z [info]: POST /api/v1/urls
+2025-02-19T06:59:17.598Z [info]: Server is running on port 3001
+2025-02-19T06:59:17.635Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T06:59:23.095Z [info]: POST /api/v1/urls
+2025-02-19T06:59:26.261Z [info]: POST /api/v1/urls
+2025-02-19T07:00:10.514Z [info]: Server is running on port 3001
+2025-02-19T07:00:10.684Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T07:00:14.445Z [info]: POST /api/v1/urls
+2025-02-19T07:00:15.610Z [info]: POST /api/v1/urls
+2025-02-19T07:00:22.082Z [info]: POST /api/v1/urls
+2025-02-19T07:00:26.510Z [info]: GET /76mz1AOe
+2025-02-19T07:22:17.390Z [info]: Server is running on port 3001
+2025-02-19T07:22:17.464Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T07:22:25.113Z [info]: POST /api/v1/urls
+2025-02-19T07:23:57.887Z [info]: POST /api/v1/urls
+2025-02-19T07:24:06.297Z [info]: GET /0fnRFxOt
+2025-02-19T07:36:17.536Z [info]: POST /api/v1/urls
+2025-02-19T07:36:22.478Z [info]: GET /0fnRFxOt
+2025-02-19T07:39:45.456Z [info]: POST /api/v1/urls
+2025-02-19T07:40:03.376Z [info]: GET /UfRilJkH
+2025-02-19T07:58:15.577Z [info]: Server is running on port 3001
+2025-02-19T07:58:15.664Z [error]: Failed to connect prisma 😞
