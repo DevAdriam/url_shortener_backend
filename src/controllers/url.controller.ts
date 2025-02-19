@@ -30,7 +30,7 @@ export class URLController {
         Responser({
           data: {
             ...createdURL,
-            shortenURL: `${process.env.BASE_URL}/${createdURL.shortenURL}`,
+            shortenURL: `${req.hostname}/${createdURL.shortenURL}`,
           },
           message: "Successfully created shorten URL",
           status: 201,

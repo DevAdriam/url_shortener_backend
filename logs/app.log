@@ -160,3 +160,6 @@
 2025-02-19T07:40:03.376Z [info]: GET /UfRilJkH
 2025-02-19T07:58:15.577Z [info]: Server is running on port 3001
 2025-02-19T07:58:15.664Z [error]: Failed to connect prisma 😞
+2025-02-19T08:44:26.471Z [info]: Server is running on port 3001
+2025-02-19T08:44:27.766Z [info]: Successfully conntected to prisma 🚀
+2025-02-19T08:53:51.447Z [info]: POST /api/v1/urls
